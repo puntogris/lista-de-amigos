@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_Nombre">Nombre de tu amigo</string>
+    <string name="app_Boton">Agregar Amigo</string>
+    <string name="app_Mostrar_texto"></string>
+    <string name="app_saludo">Tus amigos son: 44</string>
+    <string name="titulo_amigos">Tus Amigos</string>
+
+</resources>
